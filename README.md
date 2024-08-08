@@ -16,3 +16,19 @@ As the user draws, colors and play games there are some sound effects .
 - Some libraries for GUI
 - OOP
 - Data Structures
+
+### Features ⚡✨ : 
+
+- Drawing geometric figures with different sizes
+- Coloring (filling coloring, outline coloring)
+- selecting figures
+- moving figures
+- deleting figures (moving shape center or drop and drag)
+- making records
+- Sound or Mute
+- Play mode
+- select by shape
+- select by color
+- select by shape & color
+
+### [ 📷 VIDEO FOR THE PROJECT 🎥 :](https://drive.google.com/file/d/1NgNT3RIRSiUDohq_6mbigCFEK-y_JG84/view?usp=drive_link)
